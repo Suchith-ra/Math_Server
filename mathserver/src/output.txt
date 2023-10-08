@@ -1,0 +1,9 @@
+Matrix Inverse...
+size      = 4x4
+maxnum    = 15
+Init      = fast
+Initializing matrix...done
+ 0.27 -0.06 -0.06 -0.06 
+-0.06  0.27 -0.06 -0.06 
+-0.06 -0.06  0.27 -0.06 
+-0.06 -0.06 -0.06  0.27 
